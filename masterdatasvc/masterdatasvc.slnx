@@ -15,4 +15,11 @@
   <Folder Name="/src/Presentation/">
     <Project Path="src/Presentation/MasterData.Presentation.csproj" />
   </Folder>
+  <Folder Name="/tests/" />
+  <Folder Name="/tests/Application.Tests/">
+    <Project Path="tests/Application.Tests/MasterData.Application.Tests.csproj" />
+  </Folder>
+  <Folder Name="/tests/Domain.Tests/">
+    <Project Path="tests/Domain.Tests/MasterData.Domain.Tests.csproj" />
+  </Folder>
 </Solution>
