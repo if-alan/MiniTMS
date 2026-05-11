@@ -4,6 +4,6 @@
     <ManagePackageVersionsCentrally>true</ManagePackageVersionsCentrally>
   </PropertyGroup>
   <ItemGroup>
-      <PackageVersion />
+    <PackageVersion Include="Grpc.AspNetCore" Version="2.64.0" />
   </ItemGroup>
 </Project>
